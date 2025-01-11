@@ -1,70 +1,123 @@
-# Getting Started with Create React App
+## Description
+A practical guide to ReactJS concepts using Function-Based Components and **Tailwind CSS** for styling. This project demonstrates a variety of ReactJS features, including state management, context, form handling, API interaction, and more.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Features:
+1. **Props**: Passing data between parent and child components.
+2. **State**: Managing component state using `useState`.
+3. **Context**: Using `Context` API for theme management.
+4. **Event Handling**: Handling user input and actions.
+5. **Form Handling**: Using controlled and uncontrolled components in forms.
+6. **useRef**: Managing focus and direct manipulation of DOM elements.
+7. **Controlled vs Uncontrolled Components**: Understanding the difference and use cases.
+8. **useMemo**: Optimizing performance with memoization.
+9. **useReducer**: Managing complex state logic in React components.
+10. **useCallback**: Memoizing callback functions to optimize performance.
+11. **List, Map, Filter, Reduce**: Demonstrating common array methods in React.
+12. **API Fetching**: Making API requests and handling responses.
+13. **Sorting Data**: Demonstrating sorting functionality for lists.
+14. **Passing Data From Child to Parent**: Managing state flow between components.
+15. **Routing**: React Router for handling page navigation.
+16. **Higher-Order Components (HOC)**: Reusable components that enhance other components.
+17. **Testing**: Setting up Jest for unit testing React components.
+18. **Webpack**: Customizing build configurations for React.
+19. **Redux With Middleware**: Managing global state with Redux and middleware.
+20. **REST API and GraphQL**: Working with APIs to fetch data.
 
-## Available Scripts
+## Live App: [https://chanchal-kumar-mandal.github.io/reactjs-play-with-data/](https://chanchal-kumar-mandal.github.io/reactjs-play-with-data/)
 
-In the project directory, you can run:
+## Demo Screenshots
 
-### `npm start`
+### Frontend UI:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Frontend UI](https://user-images.githubusercontent.com/14269798/168538192-1572c9db-76a8-43e3-8cea-b56f1917dfbd.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Props:
 
-### `npm test`
+![Props](https://user-images.githubusercontent.com/14269798/168513249-143a7956-558b-45bc-bf86-3b80a63a420b.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### State:
 
-### `npm run build`
+![State](https://user-images.githubusercontent.com/14269798/168514069-512d5251-ce4d-490c-b953-c872896dc719.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Context:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Context](https://user-images.githubusercontent.com/14269798/168514110-1faa2a5e-05d9-43bc-998c-7b0ff59dc45e.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Event Handler:
 
-### `npm run eject`
+![Event Handler](https://user-images.githubusercontent.com/14269798/168514139-8bb673df-2154-453e-9d95-68d8c51bbc5b.png)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### Form Handling:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Form Handling](https://user-images.githubusercontent.com/14269798/168514027-7e58dfa5-1ec4-4bd3-8419-127c75359184.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### useRef:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![useRef](https://user-images.githubusercontent.com/14269798/168513985-e39d2fc2-02e2-42dd-ba8e-6a0e992b6a14.png)
 
-## Learn More
+### Controlled Vs Uncontrolled Components:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![Controlled Vs Uncontrolled](https://user-images.githubusercontent.com/14269798/168513500-cd180942-85ef-41c0-8fd8-c6d42d201446.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### API Fetch:
 
-### Code Splitting
+![API Fetch](https://user-images.githubusercontent.com/14269798/168513985-e39d2fc2-02e2-42dd-ba8e-6a0e992b6a14.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Sorting Data:
 
-### Analyzing the Bundle Size
+![Sorting Data](https://user-images.githubusercontent.com/14269798/168513500-cd180942-85ef-41c0-8fd8-c6d42d201446.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Requirements
 
-### Making a Progressive Web App
+### Install Node.js:
+[https://nodejs.org/en/download/](https://nodejs.org/en/download/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+### Install Visual Studio (VS) Code:
+[https://code.visualstudio.com/download](https://code.visualstudio.com/download)
 
-### Advanced Configuration
+### Install Extensions in VS Code:
+1. **Thunder Client** (for API testing)
+2. **ES7 React/Redux/GraphQL/React-Native Snippets**
+3. **Bracket Pair Colorizer**
+4. **Auto Rename Tag**
+5. **Live Server**
+6. **Prettier - Code formatter**
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Add Chrome Extension:
+**React Developer Tools**
 
-### Deployment
+## Steps to Run the App Locally:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+### 1. Install React App:
+```bash
+$ npx create-react-app reactjs-play-with-data
+2. Go to the App Directory:
+bash
+Always show details
 
-### `npm run build` fails to minify
+Copy code
+$ cd reactjs-play-with-data
+3. Install Required Dependencies:
+bash
+Always show details
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Copy code
+$ npm install react-icons
+4. Start the App:
+Run the following command and open http://localhost:3000 in your browser:
+
+bash
+Always show details
+
+Copy code
+$ npm start
+Important Links:
+This project was bootstrapped with Create React App. """
+
+Save content to a file
+file_path = '/mnt/data/README.md'
+
+with open(file_path, 'w') as file: file.write(readme_content)
+
+file_path
+
