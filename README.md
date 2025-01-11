@@ -29,31 +29,34 @@ A practical guide to ReactJS concepts using Function-Based Components and **Tail
 
 ### Frontend UI:
 
-![Frontend UI](https://user-images.githubusercontent.com/14269798/168538192-1572c9db-76a8-43e3-8cea-b56f1917dfbd.png)
 
-### Props:
+### Props & State:
 
-![Props](https://user-images.githubusercontent.com/14269798/168513249-143a7956-558b-45bc-bf86-3b80a63a420b.png)
+![image](https://github.com/user-attachments/assets/e2060560-8b7a-482f-8bcd-fba9d8502af0)
 
-### State:
 
-![State](https://user-images.githubusercontent.com/14269798/168514069-512d5251-ce4d-490c-b953-c872896dc719.png)
+### Context & Event Handler:
+
+![image](https://github.com/user-attachments/assets/71a51959-792d-4571-a510-9ad1dbbd9f97)
+
 
 ### Context:
 
 ![Context](https://user-images.githubusercontent.com/14269798/168514110-1faa2a5e-05d9-43bc-998c-7b0ff59dc45e.png)
 
-### Event Handler:
+### Form & useRef:
 
-![Event Handler](https://user-images.githubusercontent.com/14269798/168514139-8bb673df-2154-453e-9d95-68d8c51bbc5b.png)
+![image](https://github.com/user-attachments/assets/ef8c61e4-bfbe-4eda-bd11-ca1b4f6ae038)
 
-### Form Handling:
 
-![Form Handling](https://user-images.githubusercontent.com/14269798/168514027-7e58dfa5-1ec4-4bd3-8419-127c75359184.png)
+### useReducer & useCallback:
 
-### useRef:
+![image](https://github.com/user-attachments/assets/efc8ff4d-6b46-48a8-bcaa-5c5670b86c72)
 
-![useRef](https://user-images.githubusercontent.com/14269798/168513985-e39d2fc2-02e2-42dd-ba8e-6a0e992b6a14.png)
+
+### List Map Filter Reduce Data:
+
+![image](https://github.com/user-attachments/assets/870ac03b-bce9-44c3-9bc6-9458706043c6)
 
 ### Controlled Vs Uncontrolled Components:
 
