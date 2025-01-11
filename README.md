@@ -23,7 +23,7 @@ A practical guide to ReactJS concepts using Function-Based Components and **Tail
 19. **Redux With Middleware**: Managing global state with Redux and middleware.
 20. **REST API and GraphQL**: Working with APIs to fetch data.
 
-## Live App: [https://chanchal-kumar-mandal.github.io/reactjs-play-with-data/](https://chanchal-kumar-mandal.github.io/reactjs-play-with-data/)
+## Live App: [https://chanchal-kumar-mandal.github.io/react-frontend-interview-app/](https://chanchal-kumar-mandal.github.io/react-frontend-interview-app/)
 
 ## Demo Screenshots
 
