@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-frontend-interview-app/static/css/main.0782c439.css",
+    "main.js": "/react-frontend-interview-app/static/js/main.826d22b7.js",
+    "static/js/488.961e319d.chunk.js": "/react-frontend-interview-app/static/js/488.961e319d.chunk.js",
+    "index.html": "/react-frontend-interview-app/index.html",
+    "main.0782c439.css.map": "/react-frontend-interview-app/static/css/main.0782c439.css.map",
+    "main.826d22b7.js.map": "/react-frontend-interview-app/static/js/main.826d22b7.js.map",
+    "488.961e319d.chunk.js.map": "/react-frontend-interview-app/static/js/488.961e319d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0782c439.css",
+    "static/js/main.826d22b7.js"
+  ]
+}
