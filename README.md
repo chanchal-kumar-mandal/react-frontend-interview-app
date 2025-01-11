@@ -1,5 +1,5 @@
 ## Description
-A practical guide to ReactJS concepts using Function-Based Components and **Tailwind CSS** for styling. This project demonstrates a variety of ReactJS features, including state management, context, form handling, API interaction, and more.
+This 𝐑𝐞𝐚𝐜𝐭-𝐛𝐚𝐬𝐞𝐝 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧 serves as a practical guide to ReactJS concepts using 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧-𝐁𝐚𝐬𝐞𝐝 𝐂𝐨𝐦𝐩𝐨𝐧𝐞𝐧𝐭𝐬 and 𝐓𝐚𝐢𝐥𝐰𝐢𝐧𝐝 𝐂𝐒𝐒 for styling. The project demonstrates a variety of ReactJS features, including  𝐬𝐭𝐚𝐭𝐞 𝐦𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭, 𝐜𝐨𝐧𝐭𝐞𝐱𝐭, 𝐟𝐨𝐫𝐦 𝐡𝐚𝐧𝐝𝐥𝐢𝐧𝐠, 𝐀𝐏𝐈 𝐢𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐨𝐧, and more. It's an all-in-one learning platform for mastering ReactJS components and building interactive user interfaces with modern tools.
 
 ### Features:
 1. **Props**: Passing data between parent and child components.
